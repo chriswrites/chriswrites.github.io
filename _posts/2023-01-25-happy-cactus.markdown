@@ -2,7 +2,7 @@
 layout: post
 title:  "Happy cactus"
 date:   2023-01-28 13:23:53 -0700
-categories: desert
+categories: family
 ---
 "Dad, do you think the cactus are happy?"
 
