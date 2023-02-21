@@ -23,12 +23,12 @@ email: chriswrites@me.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Winston Herald is Gilbert, AZ's finest news source, covering food, politics, and local conversations. Most of the quotes aren't actual quotes. Sorry.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for you site, e.g. http://example.com
 twitter_username:
 github_username:  
 
 # Build settings
-theme: jekyll-yamt
+remote-theme: PandaSekh/jekyll-yamt
 plugins:
   - jekyll-feed
 
