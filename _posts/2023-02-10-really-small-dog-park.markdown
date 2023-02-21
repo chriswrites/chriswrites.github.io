@@ -16,7 +16,7 @@ At a Gilbert planning commissioner meeting…
 
 "Vice Chairman Mundt, any thoughts?"
 
-[Maybe these people have those tiny, little dogs that they carry instead of real dogs."](https://www.gilbertsunnews.com/news/higley-ray-development-gets-more-town-scrutiny/article_24ca217e-a730-11ed-8a60-0ba02be4ccdf.html)
+["Maybe these people have those tiny, little dogs that they carry instead of real dogs."](https://www.gilbertsunnews.com/news/higley-ray-development-gets-more-town-scrutiny/article_24ca217e-a730-11ed-8a60-0ba02be4ccdf.html)
 
 "Good point, Vice Chairman. Is that true?"
 
