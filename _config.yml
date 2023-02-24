@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Winston Herald
+title: Waffles Notes
 email: chriswrites@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Winston Herald is Gilbert, AZ's finest news source, covering food, politics, and local conversations. Most of the quotes aren't actual quotes. Sorry.
+  Waffles Notes is Gilbert, AZ's finest news source, covering food, politics, and local conversations. Most of the quotes aren't actual quotes.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for you site, e.g. http://example.com
+url: "https://wafflesnotes.com" # the base hostname & protocol for you site, e.g. http://example.com
 twitter_username:
 github_username:  
 
