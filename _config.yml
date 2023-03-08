@@ -29,8 +29,7 @@ github_username:
 
 # Build settings
 remote-theme: PandaSekh/jekyll-yamt
-plugins:
-  - jekyll-feed
+plugins: [ jekyll-feed, jekyll-paginate, jekyll-feed ]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
